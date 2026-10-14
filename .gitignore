@@ -1,0 +1,12 @@
+node_modules/
+.pnpm-store/
+dist/
+server/data/progress.json
+server/data/progress.json.tmp
+server/data/users/
+server/data/*.sqlite
+server/data/*.sqlite-*
+server/data/*.sqlite.migrating
+.DS_Store
+__pycache__/
+*.pyc
